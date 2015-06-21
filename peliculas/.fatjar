@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 08 01:45:20 CET 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=peliculas.jar
+manifest.mergeall=true
+manifest.mainclass=mainVista
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=pel
+excludes=
+includes=

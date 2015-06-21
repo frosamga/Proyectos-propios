@@ -1,0 +1,30 @@
+Images/la-comunidad-del-anillo.jpg
+Images/la-comunidad-del-anillo-1.jpg
+Esta pelicula fue dirigida por Peter Jackson"
+El Señ...
+El Señor de los Anillos
+Images/el-hombre-que-susurraba-a-los-caballos.jpg
+Images/el-hombre-que-susurraba-a-los-caballos-1.jpg
+En ella actuó Scarlett Johanson
+...a los ca...
+El hombre que susurraba a los caballos
+"Images/cadena-perpetua.jpg";
+"Images/cadena-perpetua-1.jpg";
+"Actuaba Morgan Freema en esta pelicula.";
+"Cad... P...ua";
+"Cadena perpetua";
+"Images/efecto-mariposa.jpg"
+"Images/efecto-mariposa-1.jpg"
+"El protagonista tambien actua en dos hombres y medio"
+"el...posa"
+"El efecto mariposa"
+"Images/click.jpg"
+"Images/click-1.jpg"
+"pelicula sobre un mando a distancia"
+"cl..."
+"Click"
+"Images/el-pianista.jpg"
+"Images/el-pianista-1.jpg"
+"'la guerra saca lo peor de nosotros...'"
+"El p..."
+"El pianista"
